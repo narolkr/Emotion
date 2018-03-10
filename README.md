@@ -3,7 +3,7 @@
 Android app that used IBM Watson Speech to Text and Tone Analyser Services to detect emotions of user while speaking.
 
 Note:: The performance of the application depend on system specifications and high end device is recommended.
-           example :- Runs Smoothly on Samsung Galaxy Edge
+           example :- Runs Smoothly on Samsung Galaxy Edge S7 Edge
  
 
 
