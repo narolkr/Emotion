@@ -32,8 +32,8 @@ using SimpleJSON;
 
 public class Emotion : MonoBehaviour
 {	
-	private string _usernameSTT = "37233a24-d1df-4cb3-9b30-7782659087a5";
-	private string _passwordSTT = "jrLSuoDAagg1";
+	private string _usernameSTT = "5a15f65e-67f4-494a-b2c5-5fad76b683fb";
+	private string _passwordSTT = "g4IaaoMABe4P";
 	private string _urlSTT = "https://stream.watsonplatform.net/speech-to-text/api";
 
 	public Text ResultsField;
@@ -47,8 +47,8 @@ public class Emotion : MonoBehaviour
 
 	private SpeechToText _speechToText;
 
-	private string _usernameTA= "6e563bef-432e-4137-a31c-1d315ed1ecd3";
-	private string _passwordTA = "pZVDVyc4J1Iy";
+	private string _usernameTA= "686ecc3c-a7e2-410f-9c84-80f2ca8e14e4";
+	private string _passwordTA = "ZxWNw02Ug3zn";
 	private string _urlTA = "https://gateway.watsonplatform.net/tone-analyzer/api";
 
 	private ToneAnalyzer _toneAnalyzer;
